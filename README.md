@@ -107,3 +107,6 @@ Data structures represented in non-linear (single continuous row of data).
 
 ## Mathematical Terms and Notations (Listed from Least to Most Significant Descending Order)
   - 
+Event class => Keep track of tics
+
+if event = departure, remove element with highest priority from priorityqueue; arrival = add customer to priority queue
